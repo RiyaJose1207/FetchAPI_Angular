@@ -1,0 +1,7 @@
+.row{
+    flex-wrap:nowrap;
+    overflow-x:scroll;
+}
+.container{
+    background-color:#BB9AB1
+}
